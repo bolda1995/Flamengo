@@ -1,0 +1,56 @@
+.back_ground_body
+{
+    background-color: #f0000a;
+    background-image: linear-gradient(0deg, #f0000a 0%, #2b0b0b 46%, #680102 100%);
+    height: 1750px;
+}
+.heed_for_logo
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.menu
+{
+    margin-bottom: 20px;
+}
+.text_about_command
+{
+    text-align: center;
+    height: 280px;
+    width: 1000px;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    right:0;
+    margin:0 auto;
+    margin-bottom: 200px;
+  
+}
+.team_photo
+{
+    position: absolute;
+    left: 0;
+    right:0;
+    margin:0 auto;
+    text-align: center;
+    top: 60%;
+    margin-bottom: 60px;
+}
+.backgraund_menu
+{
+    position: absolute;
+    left: 0;
+    right:0;
+    margin:0 auto;
+    text-align: center;
+    top: 120%;
+}
+.photo_sponsor_team
+{
+    position: absolute;
+    left: 0;
+    right:0;
+    margin:0 auto;
+    text-align: center;
+    top: 130%;
+}
